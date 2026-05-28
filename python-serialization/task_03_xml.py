@@ -20,5 +20,5 @@ def deserialize_from_xml(filename):
     root = tree.getroot()
     result = {}
     for child in root:
-        result[child.tag] = child.text 
+        result[child.tag] = child.text
     return result
