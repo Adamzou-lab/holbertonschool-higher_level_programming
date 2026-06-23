@@ -25,4 +25,4 @@ python3 nom_du_script.py
 
 ## Auteur
 
-Adam (Adamzou-lab), Holberton School.
+Adam (Adamzou-lab).
